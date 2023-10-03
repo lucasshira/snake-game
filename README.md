@@ -1,4 +1,3 @@
 # snake-game
 
-
-==== Demo: https://lucasshira.github.io/snake-game/
+My version: https://lucasshira.github.io/snake-game/
